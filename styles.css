@@ -30,8 +30,8 @@ h2 {
   border-left: 0.25rem solid currentColor;
 }
 .resumen{
-    font-size: clamp(2rem, 5vw, 3.5rem);
-    line-height: 1.6;
-    max-width: 68ch;
-    margin-inline: auto;
+  font-size: clamp(1.125rem, 1rem + 0.8vw, 1.5rem);
+  line-height: 1.6;
+  max-width: 68ch;
+  margin-top: 2rem;
 }
