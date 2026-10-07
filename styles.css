@@ -29,3 +29,9 @@ h2 {
   padding: 1rem;
   border-left: 0.25rem solid currentColor;
 }
+.resumen{
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    line-height: 1.6;
+    max-width: 68ch;
+    margin-inline: auto;
+}
